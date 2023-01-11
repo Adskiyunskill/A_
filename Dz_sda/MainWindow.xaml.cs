@@ -55,7 +55,7 @@ namespace Dz_sda
 
         private void BtnHome_Click(object sender, RoutedEventArgs e)
         {
-            Manager.MainFrame.Navigate(new MainWindow());
+            Manager.MainFrame.Navigate(new MainPG());
         }
         
     }
